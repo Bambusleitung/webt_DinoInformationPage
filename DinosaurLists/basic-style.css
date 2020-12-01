@@ -1,0 +1,39 @@
+body{
+    background-image: url("background3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial;
+    font-family: sans-serif;
+    color: white;
+
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+h2{
+    font-size: 35px;
+    color: red;
+}
+
+h3
+{
+    font-size: 25px;
+}
+li
+{
+    font-size: 20px;
+}
+
+a {
+    font-size: 25px;
+    color: black;
+    font-family: monospace;
+    font-weight: 900;
+    text-align: right;
+}
+
+

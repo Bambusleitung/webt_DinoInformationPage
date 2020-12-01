@@ -1,0 +1,33 @@
+
+body{
+    background-image: url("buecher.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial;
+    font-family: sans-serif;
+    color: white;
+
+}
+a {
+    font-size: 25px;
+    color: white;
+    font-family: monospace;
+    font-weight: 900;
+    text-align: right;
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+h2{
+    text-decoration: underline;
+    font-size: 40px;
+}
+h3{
+    font-size: 35px;
+    font-weight: 700;
+}
+p{
+    font-size: 30px;
+}
