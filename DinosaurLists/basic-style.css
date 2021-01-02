@@ -6,6 +6,7 @@ body{
     font-family: Arial;
     font-family: sans-serif;
     color: white;
+    text-shadow: 0 0 5px black;
 
 }
 
@@ -16,7 +17,9 @@ h1{
 
 h2{
     font-size: 35px;
-    color: red;
+    color:green;
+    text-shadow: 0 0 10px black;
+
 }
 
 h3
@@ -29,11 +32,23 @@ li
 }
 
 a {
-    font-size: 25px;
+    font-size: 50px;
     color: black;
-    font-family: monospace;
-    font-weight: 900;
     text-align: right;
+    text-decoration: none;
+}
+
+.menu > li{
+    font-size: 50px;
+    list-style-type: none;
+    float: right;
+    margin: 25px;
+    background-color: white;
+    border: black ridge;
+    text-shadow: none;
+}
+.menu > li:hover{
+    background-color: green;
 }
 
 
